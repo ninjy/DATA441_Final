@@ -1,0 +1,8 @@
+﻿Global Trends in Mental Health Disorders
+Ninjin Gankhuleg
+Data
+The data I will be using for my final project is “Global Trends in Mental Health Disorders” from Kaggle. The dataset contains informative data on the occurrence of mental health conditions such as, schizophrenia, bipolar disorder, anxiety disorders, eating disorders, depressionn, drug use disorders, and alcohol use disorders from various countries worldwide. It has 10 columns: Entity (name of country or region), Code (unique code associated with country or region), Year, Schizophrenia (%), Bipolar disorder (%), Eating disorders (%), Anxiety disorders (%), Drug use disorders (%), Depression (%), and Alcohol use disorders (%). The data is collected from 1990-2017 and each disorder likelihood percentages are collected during those years.
+
+
+Research Problem
+Using this dataset, I want to develop predictive models for mental health across countries or regions based on various factors, such as demographics, population, economic indicators, etc. I will perform some of the models we learned in class and see which one performs the best. Overall, I want this project to understand which country or region is most vulnerable to which mental health disorder and I want others to use this to develop appropriate preventitive strategies or allocation of resources based on the models.
